@@ -1,0 +1,31 @@
+body{
+    background-image: url(img/flat-lay-image-natural-beauty-products-including-herbs-flowers-citrus-arranged-white-background-322225685.webp);
+    background-repeat: no-repeat;
+    width: 100% !important;
+    height: 100% !important;
+    background-size: cover;
+}
+h1{
+  font-size: 30px;
+   margin-top:20%;
+   margin-left: 41%;
+   color:#5a8938
+  
+}
+table{
+  margin-left: 40%;
+  color:#5a8938
+}
+tr td{
+  font-size: 22px;
+  font:20px;
+}
+td button{
+  background-color: #5a8938;
+  border: transparent;
+  margin-left: 10%; 
+  margin-top: 10%;
+  padding:8px 50px 8px 50px;
+}
+
+  
